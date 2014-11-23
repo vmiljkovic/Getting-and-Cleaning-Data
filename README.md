@@ -15,6 +15,6 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 - Script with all code for this assigment "run_analysis.R"
 - Cleaned data after 1-4 steps "final_data.txt"
-- Tidy data after 5. step "final_data_averages.txt
+- Tidy data after 5. step "final_data_averages.txt"
 
 
